@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=0:5A863A,100:5A863A&height=100&section=header&text=Moon%20Won%20Jeong&fontSize=35&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=0:5A863A,100:5A863A&height=70&section=header&text=Moon%20Won%20Jeong&fontSize=35&fontColor=FFFFFF)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhbbang33&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
