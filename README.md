@@ -1,6 +1,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ansdnjswjd3)](https://solved.ac/ansdnjswjd3/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhbbang33&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
